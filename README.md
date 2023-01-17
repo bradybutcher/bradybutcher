@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/braydenbutcher/"><img src="https://img.shields.io/badge/-braydenbutcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braydenbutcher/"></a>
   <a href="https://github.com/bradybutcher"><img src="https://img.shields.io/github/followers/bradybutcher?label=follow&style=social"></a>
-  <a href="http://cmaks.dev/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://cmaks.dev/"></a>
+  <a href="http://bradybutcher.com/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=http://bradybutcher.com/"></a>
 </p>
 
 <a href src="https://dribbble.com/shots/9078494-Developer">
