@@ -1,4 +1,4 @@
-<h2 align="center" >👋🏽 Hi, I'm Brady </h2>
+<h2 align="center" >👋🏻 Hi, I'm Brady </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/braydenbutcher/"><img src="https://img.shields.io/badge/-braydenbutcher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braydenbutcher/"></a>
