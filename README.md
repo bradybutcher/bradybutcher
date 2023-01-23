@@ -14,6 +14,6 @@
 
 🚗 Currently: Support Technician at Brighton Area Schools (2022)
 
-🎓 Studying Computer Science at the University of Michigan (2023)
+🎓 Will study Computer Science at the University of Michigan (2023)
 
 <img align="center" src="github-user-contribution.svg"/>
