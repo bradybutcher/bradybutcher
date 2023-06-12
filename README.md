@@ -14,6 +14,6 @@
 
 🚗 Currently: Support Technician at Brighton Area Schools (2022)
 
-🎓 Computer Science Engineering at Michigan State University (2023)
+🎓 Computer Engineering Major at Michigan State University (2023)
 
 <img align="center" src="github-user-contribution.svg"/>
